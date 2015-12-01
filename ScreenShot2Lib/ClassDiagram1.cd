@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ScreenShot2Lib.BitmapCursor" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACgAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BitmapCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.Config" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.HelperMethods" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAgAIAgBADAgAAAAAAIAAAA=</HashCode>
+      <FileName>HelperMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.IndicatorObject" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IndicatorObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.MaskCanvas" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="ScreenShot2Lib.MaskCanvas.UpdateMaskType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MaskCanvas.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gEAIAiAAQAQEAICAQBgAAAAEABEAACCEiABAoIIQAAA=</HashCode>
+      <FileName>MaskCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.MaskWindow" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAABCAAIAAAAABIMAAAAIAAABQCAAKA=</HashCode>
+      <FileName>MaskWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.MoveThumb">
+    <Position X="0.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAgAAAAAQAAA=</HashCode>
+      <FileName>MoveThumb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.ResizeThumb">
+    <Position X="3.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAAAAAAAAAAAEAAgAAACAAAAICAAAAABAAAA=</HashCode>
+      <FileName>ResizeThumb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.ScreenCaputre" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAY=</HashCode>
+      <FileName>ScreenCaputre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.ScreenCaputredEventArgs" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScreenCaputredEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenShot2Lib.ThumbBase" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAAAAAAAEACAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>ThumbBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ScreenShot2Lib.ResizeThumbPlacement" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAQAAAAAAAAQAAAAAAAQAAAAAKEAkAAAA=</HashCode>
+      <FileName>ResizeThumbPlacement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

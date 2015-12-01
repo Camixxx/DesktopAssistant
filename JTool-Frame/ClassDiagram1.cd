@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JTool_Frame.About">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>About.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.App" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.ColorPicker" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIgAAAAAAEAAAAAQAAAAAAAAQABAABAAAAAAAAA=</HashCode>
+      <FileName>ColorPicker.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.Img" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Img.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.InteractionInput" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>InteractionInput.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAOAgCEAAATAAICBCEAAAIABAAAIgAEAAAgAAAAgVAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.483" Collapsed="true" />
+  </Class>
+  <Class Name="JTool_Frame.DataModel" Collapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAEAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Model\DataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.NormalFeedBack" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAI=</HashCode>
+      <FileName>NormalFeedBack.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.Setting" Collapsed="true">
+    <Position X="1.25" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBggAAEAgAAAAAAAIAAAAEAAAABAAAAAABEAQ=</HashCode>
+      <FileName>Setting.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.SpecialFeedBack" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpecialFeedBack.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.ColorLib.BaseModel" Collapsed="true">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColorLib\BaseModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JTool_Frame.ColorLib.ColorPickerManager">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAACACAAACAAIAQA=</HashCode>
+      <FileName>ColorLib\ColorPickerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.ColorLib.MainViewModel" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQIAQABiAEAAYA=</HashCode>
+      <FileName>ColorLib\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JTool_Frame.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="JTool_Frame.IDataModel" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="JTool_Frame.ChangeSkinHandler">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Setting.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

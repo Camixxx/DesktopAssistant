@@ -1,0 +1,87 @@
+﻿<controls:MetroWindow x:Class="JTool_Frame.ColorPicker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:JTool_Frame.ColorLib"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="ColorPicker" Height="284" Width="328.667" Icon="colorIcon.ico">
+    <Window.Resources>
+        <vm:MainViewModel x:Key="vm" />
+    </Window.Resources>
+    <Grid Name="layoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="206*"/>
+            <ColumnDefinition Width="87*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1" />
+            <RowDefinition Height="195*" />
+            <RowDefinition Height="74*"/>
+        </Grid.RowDefinitions>
+        <Grid Name="grdContent" Grid.Row="1" Margin="0,1.667,0.333,-0.333" Grid.ColumnSpan="2" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="210*" />
+                <ColumnDefinition Width="83*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".7*" />
+                <RowDefinition Height=".3*" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Column="0" Margin="26,21,18.2,10" Background="{Binding BackSampleColor,Source={StaticResource ResourceKey=vm}}"/>
+            <Grid Margin="0,0.333,0,0" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="35" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Margin="10,26,0,33"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Text="HEX" RenderTransformOrigin="0.353,0.544" />
+                <TextBox Grid.Column="1"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         IsReadOnly="True"
+                         Text="{Binding HexColor,
+                                        Source={StaticResource ResourceKey=vm}}" Margin="0.333,25,20.667,24" />
+            </Grid>
+            <Grid Grid.RowSpan="2" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBlock VerticalAlignment="Center" Text="R" />
+                <TextBlock Grid.Row="1"
+                           VerticalAlignment="Center"
+                           Text="G" />
+                <TextBlock Grid.Row="2"
+                           VerticalAlignment="Center"
+                           Text="B" />
+                <TextBox Grid.Row="0" Grid.Column="1" Margin="5,0"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         IsReadOnly="True"
+                         Text="{Binding R,Source={StaticResource ResourceKey=vm}}" TextChanged="TextBox_TextChanged"/>
+                <TextBox Grid.Row="1"
+                         Grid.Column="1"
+                         Margin="5,0"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         IsReadOnly="True"
+                         Text="{Binding G,Source={StaticResource ResourceKey=vm}}" TextChanged="TextBox_TextChanged" />
+                <TextBox Grid.Row="2"
+                         Grid.Column="1"
+                         Margin="4.333,35,5,23"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Center"
+                         IsReadOnly="True"
+                         Text="{Binding B,Source={StaticResource ResourceKey=vm}}"/>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</controls:MetroWindow>

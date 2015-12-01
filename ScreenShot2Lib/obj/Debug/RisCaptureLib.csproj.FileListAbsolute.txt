@@ -1,0 +1,20 @@
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\bin\Debug\RisCaptureLib.dll
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\bin\Debug\RisCaptureLib.pdb
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib.csprojResolveAssemblyReference.cache
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib_MarkupCompile.cache
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib_MarkupCompile.lref
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\Themes\generic.baml
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib.g.resources
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib.dll
+G:\Universe\Study\2015Spring\研究开发实践\JTOOL--1\CaptureScreenSln\CaptureScreenSln\RisCaptureLib\obj\Debug\RisCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\bin\Debug\RisCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\bin\Debug\RisCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\Themes\generic.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\RisCaptureLib\obj\Debug\RisCaptureLib.pdb

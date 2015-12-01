@@ -1,0 +1,475 @@
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\MainWindow.baml
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\MainWindow.g.cs
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\App.g.cs
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\bin\Debug\JTool-Frame.exe
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\bin\Debug\JTool-Frame.pdb
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool-Frame.exe
+c:\users\camixxx\documents\visual studio 2013\Projects\JTool-Frame\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.1\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.2\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.2\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.2\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.2\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.3\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.4\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.5\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\jixiang\Desktop\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.exe
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.pdb
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\About.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\InteractionInput.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\MainWindow.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Setting.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\App.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.exe
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTool-Frame.pdb
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.dll
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.dll
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xaml.dll
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\bin\Debug\MahApps.Metro.xml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\Img.g.cs
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\ColorPicker.baml
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+F:\项目单子\VS2013\JTool-Frame 1.0.0.6\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.0.8\JTool-Frame 1.0.0.8\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTHtmlSnaper.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\JTHtmlSnaper.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.0\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\JTHtmlSnaper.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\RisCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\JTHtmlSnaper.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\RisCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.1\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\JTool-Frame.exe.config
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\JTool-Frame.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\JTool-Frame.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\JTHtmlSnaper.exe
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\MahApps.Metro.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\RisCaptureLib.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\System.Xaml.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\System.Xml.Linq.dll
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\JTHtmlSnaper.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\RisCaptureLib.pdb
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\bin\Debug\MahApps.Metro.xml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame.csprojResolveAssemblyReference.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\About.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\ColorLib\Theme1.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Img.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\InteractionInput.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\MainWindow.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\NormalFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Resources\Icons.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Setting.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\SpecialFeedBack.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\App.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\About.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\ColorPicker.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Img.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\InteractionInput.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\NormalFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Resources\Icons.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\Setting.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\SpecialFeedBack.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\App.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.cache
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame_MarkupCompile.lref
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\ColorPicker.baml
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame.g.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool_Frame.Properties.Resources.resources
+C:\Users\Camixxx\Documents\Visual Studio 2013\Projects\JTool-Frame 1.0.1.2\JTool-Frame\obj\Debug\JTool-Frame.csproj.GenerateResource.Cache
